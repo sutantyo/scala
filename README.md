@@ -2,8 +2,8 @@
 
 ## Installation
 
-Installed Scala following the instructions on https://www.scala-sbt.org/1.x/docs/Installing-sbt-on-Linux.html (using WSL on Windows).
-The first step is to install `sdkman` (https://sdkman.io/), here are the steps on WSL:
+Installed Scala following the instructions on https://www.scala-sbt.org/1.x/docs/Installing-sbt-on-Linux.html (using WSL on Windows)
+using `sdkman`. Here are the steps:
 - `sudo apt-get install zip`
 - `sudo apt-get install unzip`
 - (restart terminal)
